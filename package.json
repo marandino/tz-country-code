@@ -1,6 +1,6 @@
 {
   "name": "@marandino/tz-country-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility that converts the user's timezone into their country code for localization purposes.",
   "main": "index.js",
   "scripts": {
