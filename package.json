@@ -1,7 +1,7 @@
 {
   "name": "@marandino/tz-country-code",
   "version": "1.0.1",
-  "description": "Utility that converts the user's timezone into their country code for localization purposes.",
+  "description": "Automatically detect a user's country based on their timezone, providing an easy and efficient way to get location information without relying on IP addresses.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/marandino/tz-country-code.git"
   },
-  "keywords": [],
+  "keywords": [
+    "location",
+    "country",
+    "timezone",
+    "geolocation",
+    "geo",
+    "time",
+    "zone",
+    "detect",
+    "user-location",
+    "ip",
+    "coordinates"
+  ],
   "author": "Chiyen Venegas",
   "license": "MIT",
   "bugs": {
